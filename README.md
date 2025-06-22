@@ -14,6 +14,7 @@ erstellt werden können.
    
    1. **Suche:** Eine Volltextsuche, welche es ermöglicht Einträge über
    2. **Erweiterte Suche** für *Volltextsuche*, *Titel*, *Autor*, *Schlagwort*, *Medienart* und *Dokumenttyp*, wobei *Medienart* und *Dokumenttyp* verschiedene Auspräungen haben und nicht frei eingegeben können.
+3. Eine Feedback Funktion, welches es Benutzer ermöglicht zu einem Gegenstand Feedback in Form von Kommentaren zu schreiben.
 
 **Inhalte des Online Kataloges:**
 |Feld|Inhalt|
