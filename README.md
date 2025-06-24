@@ -26,3 +26,16 @@ erstellt werden können.
    | Hat Datei? | Boolean ob es eine beigefügte Datei gibt |
    | Jahr | Beschreibt aus welchem Jahr der Gegenstand stammt |
    | Signatur | Kürzel des Gegenstandes. Beispiele hierfür können sein: [BA 912, BA XXX] |
+
+Wir brauchen ein Frontend für unsere Besucher und eines für unsere Archivare um Einträge zu erstellen/zu bearbeiten.
+
+   **Was noch cool wäre:**
+
+   Die Oberfläche für die Archivare sollte wenn es geht auch die Möglichkeit haben mehrere Einträge manuell zu bearbeiten, wenn z.B. das physische Archiv umgeräumt werden muss.
+
+Als Techstack eventuell Sqlite, NextJs und Chakra für die Component Library. 
+Am besten sollte die Anwendung aber Front und Backend in einem Beeinhalten, damit wir uns nicht um z.B. Netzwerk kümmern müssen. NextJs scheint Back- und Frontend aber mischbar zu machen.
+
+**Strapi**
+
+Strapri könnte als CMS verwendet werden. Ist nicht aufwendig in der Entwicklung, könnte aber unflexibel sein.
